@@ -7,6 +7,14 @@
   <li>You will able to see the data and map</li>
 </ol>
 
+
+<ol><h2>Tech Stack</h2>:
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPt</li>
+</ol>
+
+
 <ol><h2>Features</h2>:
   <li>Show current day data and seven day forecast data.</li>
   <li>Map of the city</li>
